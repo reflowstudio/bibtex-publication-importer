@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: BibTeX Publication Importer
-Plugin URI: http://wordpress.org/extend/plugins/bibtex-publication-importer/
+Plugin URI: https://github.com/reflowstudio/bibtex-publication-importer
 Description: Import publications from the BibTeX scholarly reference format.
 Author: Reflow Studio
 Author URI: http://reflowstudio.com
